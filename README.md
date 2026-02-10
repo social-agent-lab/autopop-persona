@@ -114,7 +114,7 @@ Uses K-Prototypes algorithm to cluster households based on mixed-type features (
 ### Persona Generator
 Transforms clustering results into rich, narrative personas with behavioral insights, patterns, and actionable recommendations.
 
-### Persona refinement
+### Persona Refinement
 Evaluates and refines personas through behavioral consistency checks and simulation feedback.
 
 ### Question Designer
