@@ -1,0 +1,6332 @@
+{
+  "CaseID": {
+    "label": "CaseID 2023",
+    "description": "CaseID 2023",
+    "code_values": [],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "caseid2022": {
+    "label": "CaseID from 2022 SHED Survey",
+    "description": "CaseID from 2022 SHED Survey",
+    "code_values": [],
+    "availability_rate": "33.95%",
+    "valid_count": 3870,
+    "total_count": 11400
+  },
+  "caseid2021": {
+    "label": "CaseID from 2021 SHED Survey",
+    "description": "CaseID from 2021 SHED Survey",
+    "code_values": [],
+    "availability_rate": "28.90%",
+    "valid_count": 3295,
+    "total_count": 11400
+  },
+  "caseid2020": {
+    "label": "CaseID from 2020 SHED Survey",
+    "description": "CaseID from 2020 SHED Survey",
+    "code_values": [],
+    "availability_rate": "23.82%",
+    "valid_count": 2716,
+    "total_count": 11400
+  },
+  "caseid2019": {
+    "label": "CaseID from 2019 SHED Survey",
+    "description": "CaseID from 2019 SHED Survey",
+    "code_values": [],
+    "availability_rate": "25.09%",
+    "valid_count": 2860,
+    "total_count": 11400
+  },
+  "duration": {
+    "label": "Duration (in seconds)",
+    "description": "Duration (in seconds)",
+    "code_values": [],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "weight": {
+    "label": "Post-stratification weight - Main qualified respondents scaled to sample size",
+    "description": "Post-stratification weight - Main qualified respondents scaled to sample size",
+    "code_values": [],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "weight_pop": {
+    "label": "Post-stratification weight - Main qualified respondents scaled to U.S. population",
+    "description": "Post-stratification weight - Main qualified respondents scaled to U.S. population",
+    "code_values": [],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "panel_weight": {
+    "label": "Post-stratification weight - Main recontact respondents scaled to sample size",
+    "description": "Post-stratification weight - Main recontact respondents scaled to sample size",
+    "code_values": [],
+    "availability_rate": "33.95%",
+    "valid_count": 3870,
+    "total_count": 11400
+  },
+  "panel_weight_pop": {
+    "label": "Post-stratification weight - Main recontact respondents scaled to U.S. population",
+    "description": "Post-stratification weight - Main recontact respondents scaled to U.S. population",
+    "code_values": [],
+    "availability_rate": "33.95%",
+    "valid_count": 3870,
+    "total_count": 11400
+  },
+  "xlaptop": {
+    "label": "LABA",
+    "description": "Is R a KP laptop user?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Yes"
+      },
+      {
+        "value": "2",
+        "text": "No"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "L0_a": {
+    "label": "L0_A",
+    "description": "My spouse or partner - First, do each of the following people currently live with you?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "L0_b": {
+    "label": "L0_B",
+    "description": "My child(ren) under age 18 - First, do each of the following people currently live with you?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "L0_c": {
+    "label": "L0_C",
+    "description": "My adult child(ren) age 18 or older - First, do each of the following people currently live with you?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "L0_d": {
+    "label": "L0_D",
+    "description": "My parent(s) - First, do each of the following people currently live with you?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "L0_e": {
+    "label": "L0_E",
+    "description": "Other individuals - First, do each of the following people currently live with you?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "L0A": {
+    "label": "L0A",
+    "description": "Are the adult children (who are age 18 or older) who live with you:",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "All currently enrolled in school"
+      },
+      {
+        "value": "2",
+        "text": "One or more not currently enrolled in school"
+      }
+    ],
+    "availability_rate": "17.33%",
+    "valid_count": 1976,
+    "total_count": 11400
+  },
+  "L0B_a": {
+    "label": "L0B_A",
+    "description": "Your brother(s) or sister(s) - Are the people living with you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.56%",
+    "valid_count": 1432,
+    "total_count": 11400
+  },
+  "L0B_b": {
+    "label": "L0B_B",
+    "description": "Other relatives - Are the people living with you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.56%",
+    "valid_count": 1432,
+    "total_count": 11400
+  },
+  "L0B_c": {
+    "label": "L0B_C",
+    "description": "Other people not related to you - Are the people living with you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.56%",
+    "valid_count": 1432,
+    "total_count": 11400
+  },
+  "L0C": {
+    "label": "L0C",
+    "description": "How many children do you have who are under age 18 and currently live with you?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "1"
+      },
+      {
+        "value": "2",
+        "text": "2"
+      },
+      {
+        "value": "3",
+        "text": "3"
+      },
+      {
+        "value": "4",
+        "text": "4"
+      },
+      {
+        "value": "5",
+        "text": "5 or more"
+      }
+    ],
+    "availability_rate": "23.30%",
+    "valid_count": 2656,
+    "total_count": 11400
+  },
+  "L0E": {
+    "label": "L0E",
+    "description": "How old is your (youngest) child that lives with you?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "0 to 2 years old"
+      },
+      {
+        "value": "2",
+        "text": "3 to 5"
+      },
+      {
+        "value": "3",
+        "text": "6 to 12"
+      },
+      {
+        "value": "4",
+        "text": "13 to 17"
+      }
+    ],
+    "availability_rate": "23.30%",
+    "valid_count": 2656,
+    "total_count": 11400
+  },
+  "B2": {
+    "label": "B2",
+    "description": "Overall, which one of the following best describes how well you are managing financially these days?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Finding it difficult to get by"
+      },
+      {
+        "value": "2",
+        "text": "Just getting by"
+      },
+      {
+        "value": "3",
+        "text": "Doing okay"
+      },
+      {
+        "value": "4",
+        "text": "Living comfortably"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "B3": {
+    "label": "B3",
+    "description": "Compared to 12 months ago, would you say that you (and your family) are better off, the same, or worse off financially?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Much worse off"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat worse off"
+      },
+      {
+        "value": "3",
+        "text": "About the same"
+      },
+      {
+        "value": "4",
+        "text": "Somewhat better off"
+      },
+      {
+        "value": "5",
+        "text": "Much better off"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "B6": {
+    "label": "B6",
+    "description": "Think of your parents when they were your age. Would you say you (and your family) are better, the same, or worse off financially than they were?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Much worse off"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat worse off"
+      },
+      {
+        "value": "3",
+        "text": "About the same"
+      },
+      {
+        "value": "4",
+        "text": "Somewhat better off"
+      },
+      {
+        "value": "5",
+        "text": "Much better off"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "B7_a": {
+    "label": "B7_A",
+    "description": "In your community - How would you rate economic conditions today:",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Poor"
+      },
+      {
+        "value": "2",
+        "text": "Only fair"
+      },
+      {
+        "value": "3",
+        "text": "Good"
+      },
+      {
+        "value": "4",
+        "text": "Excellent"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "B7_b": {
+    "label": "B7_B",
+    "description": "In this country - How would you rate economic conditions today:",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Poor"
+      },
+      {
+        "value": "2",
+        "text": "Only fair"
+      },
+      {
+        "value": "3",
+        "text": "Good"
+      },
+      {
+        "value": "4",
+        "text": "Excellent"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "X11_none": {
+    "label": "X11_NONE",
+    "description": "X11 None selected",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "CG1": {
+    "label": "CG1",
+    "description": "Currently, how many hours per week do you use paid childcare?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "None"
+      },
+      {
+        "value": "1",
+        "text": "1 to 4 hours"
+      },
+      {
+        "value": "2",
+        "text": "5 to 9 hours"
+      },
+      {
+        "value": "3",
+        "text": "10 to 19 hours"
+      },
+      {
+        "value": "4",
+        "text": "20 hours or more"
+      }
+    ],
+    "availability_rate": "4.76%",
+    "valid_count": 543,
+    "total_count": 11400
+  },
+  "CG2": {
+    "label": "CG2",
+    "description": "How much do you pay per week for childcare (in total for all of your children)?",
+    "code_values": [],
+    "availability_rate": "4.76%",
+    "valid_count": 543,
+    "total_count": 11400
+  },
+  "CG3": {
+    "label": "CG3",
+    "description": "When it comes to taking care of your children when they are at home, which of the following statements best describes the caretaking responsibilities?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "I am usually the primary caretaker"
+      },
+      {
+        "value": "2",
+        "text": "My spouse/partner is usually the primary caretaker"
+      },
+      {
+        "value": "3",
+        "text": "My spouse/partner and I equally share caretaking responsibilities"
+      }
+    ],
+    "availability_rate": "14.25%",
+    "valid_count": 1624,
+    "total_count": 11400
+  },
+  "CG4": {
+    "label": "CG4",
+    "description": "Do you regularly provide unpaid help or take care of an adult relative or friend who needs assistance due to aging, disability, or illness?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "CG5_a": {
+    "label": "CG5_A",
+    "description": "Your parent- Do you regularly provide unpaid help or care to each of the following people due to aging, disability, or illness?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "16.70%",
+    "valid_count": 1904,
+    "total_count": 11400
+  },
+  "CG5_b": {
+    "label": "CG5_B",
+    "description": "Your spouse's or partner's parent - Do you regularly provide unpaid help or care to each of the following people due to aging, disability, or illness?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "10.98%",
+    "valid_count": 1252,
+    "total_count": 11400
+  },
+  "CG5_c": {
+    "label": "CG5_C",
+    "description": "Your spouse or partner- Do you regularly provide unpaid help or care to each of the following people due to aging, disability, or illness?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "10.98%",
+    "valid_count": 1252,
+    "total_count": 11400
+  },
+  "CG5_d": {
+    "label": "CG5_D",
+    "description": "An adult child (age 18 or older) - Do you Regularly provide unpaid help or care to each of the following people due to aging, disability, or illness?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "16.70%",
+    "valid_count": 1904,
+    "total_count": 11400
+  },
+  "CG5_e": {
+    "label": "CG5_E",
+    "description": "Another relative - Do you regularly provide unpaid help or care to each of the following people due to aging, disability, or illness?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "16.70%",
+    "valid_count": 1904,
+    "total_count": 11400
+  },
+  "CG5_f": {
+    "label": "CG5_F",
+    "description": "A friend or neighbor - Do you regularly provide unpaid help or care to each of the following people due to aging, disability, or illness?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "16.70%",
+    "valid_count": 1904,
+    "total_count": 11400
+  },
+  "CG6": {
+    "label": "CG6",
+    "description": "About how often do you provide unpaid help or care to an adult relative or friend who needs assistance due to aging, disability, or illness?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Daily"
+      },
+      {
+        "value": "2",
+        "text": "Several days per week"
+      },
+      {
+        "value": "3",
+        "text": "Several days per month"
+      },
+      {
+        "value": "4",
+        "text": "Once per month"
+      },
+      {
+        "value": "5",
+        "text": "Less than once per month"
+      }
+    ],
+    "availability_rate": "16.70%",
+    "valid_count": 1904,
+    "total_count": 11400
+  },
+  "D1A": {
+    "label": "D1A",
+    "description": "Last month, did you do any work for either pay or profit?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "D4": {
+    "label": "D4",
+    "description": "Last month, did you have more than one job, including part time, evening or weekend work?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "57.78%",
+    "valid_count": 6587,
+    "total_count": 11400
+  },
+  "D48": {
+    "label": "D48",
+    "description": "(Thinking about all your jobs, do/Do) you usually work 35 hours or more per week?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "57.78%",
+    "valid_count": 6587,
+    "total_count": 11400
+  },
+  "D3B": {
+    "label": "D3B",
+    "description": "Thinking about your main job (where you earn the most money), do you usually work 35 hours or more per week?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "8.59%",
+    "valid_count": 979,
+    "total_count": 11400
+  },
+  "D1E": {
+    "label": "D1E",
+    "description": "At any time during the past month, did you want to work (more hours)?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "D22_a": {
+    "label": "D22_A",
+    "description": "Could not find (more) work - Did each of the following contribute to you (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "54.46%",
+    "valid_count": 6208,
+    "total_count": 11400
+  },
+  "D22_b": {
+    "label": "D22_B",
+    "description": "Full-time workweek less than 35 hours - Did each of the following contribute to you (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.24%",
+    "valid_count": 1395,
+    "total_count": 11400
+  },
+  "D22_c": {
+    "label": "D22_C",
+    "description": "Childcare - Did each of the following contribute to you (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "54.46%",
+    "valid_count": 6208,
+    "total_count": 11400
+  },
+  "D22_d": {
+    "label": "D22_D",
+    "description": "Caregiving for an elderly, disabled, or sick adult - Did each of the following contribute to you (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "54.46%",
+    "valid_count": 6208,
+    "total_count": 11400
+  },
+  "D22_e": {
+    "label": "D22_E",
+    "description": "Other family or personal obligations - Did each of the following contribute to you (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "54.46%",
+    "valid_count": 6208,
+    "total_count": 11400
+  },
+  "D22_f": {
+    "label": "D22_F",
+    "description": "Would lose access to unemployment benefits or other government programs - Did each of the following contribute to you (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "54.46%",
+    "valid_count": 6208,
+    "total_count": 11400
+  },
+  "D22_g": {
+    "label": "D22_G",
+    "description": "Health limitations or disability- Did each of the following contribute to you (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "54.46%",
+    "valid_count": 6208,
+    "total_count": 11400
+  },
+  "D22_h": {
+    "label": "D22_H",
+    "description": "In school or training - Did each of the following contribute to you (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "54.46%",
+    "valid_count": 6208,
+    "total_count": 11400
+  },
+  "D22_i": {
+    "label": "D22_I",
+    "description": "Retired - Did each of the following contribute to you (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "54.46%",
+    "valid_count": 6208,
+    "total_count": 11400
+  },
+  "D3A": {
+    "label": "D3A",
+    "description": "[Think about your main job (the job from which you earned the most money in the past month). In this job, were you working/Did you work] for someone else, were you self-employed, or something else?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "Working for someone else"
+      },
+      {
+        "value": "1",
+        "text": "Self-employed (working for myself)"
+      },
+      {
+        "value": "2",
+        "text": "Other work arrangement"
+      }
+    ],
+    "availability_rate": "57.78%",
+    "valid_count": 6587,
+    "total_count": 11400
+  },
+  "D28_a": {
+    "label": "D28_A",
+    "description": "I can choose what tasks I work on - How often do each of these statements describe your work situation (at your main job)?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Never"
+      },
+      {
+        "value": "2",
+        "text": "Rarely"
+      },
+      {
+        "value": "3",
+        "text": "Sometimes"
+      },
+      {
+        "value": "4",
+        "text": "Often"
+      },
+      {
+        "value": "5",
+        "text": "Always"
+      }
+    ],
+    "availability_rate": "49.33%",
+    "valid_count": 5624,
+    "total_count": 11400
+  },
+  "D28_b": {
+    "label": "D28_B",
+    "description": "I can choose how I complete tasks at work - How often do each of these statement describe your work situation (at your main job)?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Never"
+      },
+      {
+        "value": "2",
+        "text": "Rarely"
+      },
+      {
+        "value": "3",
+        "text": "Sometimes"
+      },
+      {
+        "value": "4",
+        "text": "Often"
+      },
+      {
+        "value": "5",
+        "text": "Always"
+      }
+    ],
+    "availability_rate": "49.33%",
+    "valid_count": 5624,
+    "total_count": 11400
+  },
+  "D30": {
+    "label": "D30",
+    "description": "(Still thinking about your main job, do/Do) you normally start and end work around the same time each day that you work, or does it vary?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Normally work the same hours"
+      },
+      {
+        "value": "2",
+        "text": "Schedule varies, primarily at my request"
+      },
+      {
+        "value": "3",
+        "text": "Schedule varies, primarily based on my employer’s needs"
+      }
+    ],
+    "availability_rate": "49.33%",
+    "valid_count": 5624,
+    "total_count": 11400
+  },
+  "D47": {
+    "label": "D47",
+    "description": "(In your main job, did/Did) you agree that if you leave your employer, you will not start or work for a competing business? This is often called a non-compete agreement.",
+    "code_values": [
+      {
+        "value": "-2",
+        "text": "Don’t know"
+      },
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "57.78%",
+    "valid_count": 6587,
+    "total_count": 11400
+  },
+  "D34A": {
+    "label": "D34A",
+    "description": "Thinking about the work you did last week, how much of it did you do by telecommuting or working from home?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "None"
+      },
+      {
+        "value": "1",
+        "text": "Some"
+      },
+      {
+        "value": "2",
+        "text": "All"
+      }
+    ],
+    "availability_rate": "24.25%",
+    "valid_count": 2764,
+    "total_count": 11400
+  },
+  "D36A": {
+    "label": "D36A",
+    "description": "How likely would you be to actively look for another job or leave your job if you had to report in person each workday?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Very likely"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat likely"
+      },
+      {
+        "value": "3",
+        "text": "Not that likely"
+      },
+      {
+        "value": "4",
+        "text": "Not at all likely"
+      }
+    ],
+    "availability_rate": "19.85%",
+    "valid_count": 2263,
+    "total_count": 11400
+  },
+  "D36B": {
+    "label": "D36B",
+    "description": "How likely would you be to actively look for another job or leave your job if your employer (kept your pay the same for a year / decreased your pay by 1 percent / decreased your pay by 5 percent / decreased your pay by 10 percent)",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Very likely"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat likely"
+      },
+      {
+        "value": "3",
+        "text": "Not that likely"
+      },
+      {
+        "value": "4",
+        "text": "Not at all likely"
+      }
+    ],
+    "availability_rate": "49.33%",
+    "valid_count": 5624,
+    "total_count": 11400
+  },
+  "D44_f": {
+    "label": "D44_F",
+    "description": "(Think about any job in the past 12 months, not just your main job). In the past 12 months, have you gotten laid off or lost a job (including a temporary layoff)?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "D44_a": {
+    "label": "D44_A",
+    "description": "Asked for a raise or a promotion -(Think about any job in the past 12 months.) In the past 12 months, have you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "57.78%",
+    "valid_count": 6587,
+    "total_count": 11400
+  },
+  "D44_b": {
+    "label": "D44_B",
+    "description": "Received a raise or a promotion - (Think about any job in the past 12 months.) In the past 12 months, have you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "57.78%",
+    "valid_count": 6587,
+    "total_count": 11400
+  },
+  "D44_c": {
+    "label": "D44_C",
+    "description": "Applied for a new job - (Think about any job in the past 12 months.) In the past 12 months, have you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "D44_d": {
+    "label": "D44_D",
+    "description": "Started a new job - (Think about any job in the past 12 months.) In the past 12 months, have you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "D44_e": {
+    "label": "D44_E",
+    "description": "Voluntarily left a job - (Think about any job in the past 12 months.) In the past 12 months, have you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "D37A": {
+    "label": "D37A",
+    "description": "You indicated that you started a new job in the past 12 months. Is your main job (where you earn the most money) the same as it was a year ago?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Different main job – new employer"
+      },
+      {
+        "value": "2",
+        "text": "Different main job – same employer"
+      },
+      {
+        "value": "3",
+        "text": "Same main job – started a second job"
+      },
+      {
+        "value": "4",
+        "text": "Was not working a year ago"
+      },
+      {
+        "value": "5",
+        "text": "Other"
+      }
+    ],
+    "availability_rate": "11.04%",
+    "valid_count": 1258,
+    "total_count": 11400
+  },
+  "D38_a": {
+    "label": "D38_A",
+    "description": "Pay or benefits - Are each of the following better, the same, or worse at the main job you have now than the one you had a year ago?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Better"
+      },
+      {
+        "value": "2",
+        "text": "About the same"
+      },
+      {
+        "value": "3",
+        "text": "Worse"
+      }
+    ],
+    "availability_rate": "7.89%",
+    "valid_count": 900,
+    "total_count": 11400
+  },
+  "D38_b": {
+    "label": "D38_B",
+    "description": "Opportunities for advancement - Are each of the following better, the same, or worse at the main job you have now than the one you had a year ago?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Better"
+      },
+      {
+        "value": "2",
+        "text": "About the same"
+      },
+      {
+        "value": "3",
+        "text": "Worse"
+      }
+    ],
+    "availability_rate": "7.89%",
+    "valid_count": 900,
+    "total_count": 11400
+  },
+  "D38_c": {
+    "label": "D38_C",
+    "description": "Your interest in the work - Are each of the following better, the same, or worse at the main job you have now than the one you had a year ago?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Better"
+      },
+      {
+        "value": "2",
+        "text": "About the same"
+      },
+      {
+        "value": "3",
+        "text": "Worse"
+      }
+    ],
+    "availability_rate": "7.89%",
+    "valid_count": 900,
+    "total_count": 11400
+  },
+  "D38_d": {
+    "label": "D38_D",
+    "description": "Physical demands of the job - Are each of the following better, the same, or worse at the main job you have now than the one you had a year ago?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Better"
+      },
+      {
+        "value": "2",
+        "text": "About the same"
+      },
+      {
+        "value": "3",
+        "text": "Worse"
+      }
+    ],
+    "availability_rate": "7.89%",
+    "valid_count": 900,
+    "total_count": 11400
+  },
+  "D38_f": {
+    "label": "D38_F",
+    "description": "Work-life balance - Are each of the following better, the same, or worse at the main job you have now than the one you had a year ago?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Better"
+      },
+      {
+        "value": "2",
+        "text": "About the same"
+      },
+      {
+        "value": "3",
+        "text": "Worse"
+      }
+    ],
+    "availability_rate": "7.89%",
+    "valid_count": 900,
+    "total_count": 11400
+  },
+  "D39": {
+    "label": "D39",
+    "description": "Overall, is the main job you have now better, the same, or worse than the one you had a year ago?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Better"
+      },
+      {
+        "value": "2",
+        "text": "About the same"
+      },
+      {
+        "value": "3",
+        "text": "Worse"
+      }
+    ],
+    "availability_rate": "7.89%",
+    "valid_count": 900,
+    "total_count": 11400
+  },
+  "D45": {
+    "label": "D45",
+    "description": "How long have you been working continuously in your main job (where you earn the most money)?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Less than a year"
+      },
+      {
+        "value": "2",
+        "text": "1 to 4 years"
+      },
+      {
+        "value": "3",
+        "text": "5 to 9 years"
+      },
+      {
+        "value": "4",
+        "text": "10 or more years"
+      }
+    ],
+    "availability_rate": "48.54%",
+    "valid_count": 5533,
+    "total_count": 11400
+  },
+  "D5": {
+    "label": "D5",
+    "description": "Last month, did your spouse or partner do any work for either pay or profit?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "66.06%",
+    "valid_count": 7531,
+    "total_count": 11400
+  },
+  "D49": {
+    "label": "D49",
+    "description": "Does your spouse or partner usually work 35 hours or more per week?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "39.53%",
+    "valid_count": 4506,
+    "total_count": 11400
+  },
+  "D41_a": {
+    "label": "D41_A",
+    "description": "Could not find (more) work - Did each of the following contribute to your spouse or partner (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.73%",
+    "valid_count": 3845,
+    "total_count": 11400
+  },
+  "D41_b": {
+    "label": "D41_B",
+    "description": "Full-time workweek less than 35 hours - Did each of the following contribute to your spouse or partner (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "7.19%",
+    "valid_count": 820,
+    "total_count": 11400
+  },
+  "D41_c": {
+    "label": "D41_C",
+    "description": "Childcare - Did each of the following contribute to your spouse or partner (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.73%",
+    "valid_count": 3845,
+    "total_count": 11400
+  },
+  "D41_d": {
+    "label": "D41_D",
+    "description": "Caregiving for an elderly, disabled, or sick adult - Did each of the following contribute to your spouse or partner (not working/working less 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.73%",
+    "valid_count": 3845,
+    "total_count": 11400
+  },
+  "D41_e": {
+    "label": "D41_E",
+    "description": "Other family or personal obligations - Did each of the following contribute to your spouse or partner (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.73%",
+    "valid_count": 3845,
+    "total_count": 11400
+  },
+  "D41_f": {
+    "label": "D41_F",
+    "description": "Would lose access to unemployment benefits or other government programs - Did each of the following contribute to your spouse or partner (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.73%",
+    "valid_count": 3845,
+    "total_count": 11400
+  },
+  "D41_g": {
+    "label": "D41_G",
+    "description": "Health limitations or disability- Did each of the following contribute to your spouse or partner (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.73%",
+    "valid_count": 3845,
+    "total_count": 11400
+  },
+  "D41_h": {
+    "label": "D41_H",
+    "description": "In school or training - Did each of the Following contribute to your spouse or partner (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.73%",
+    "valid_count": 3845,
+    "total_count": 11400
+  },
+  "D41_i": {
+    "label": "D41_I",
+    "description": "Retired - Did each of the following contribute to your spouse or partner (not working/working less than 35 hours per week) in the last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.73%",
+    "valid_count": 3845,
+    "total_count": 11400
+  },
+  "GH1": {
+    "label": "GH1",
+    "description": "This section will ask some questions about your home. Do you (and/or your spouse or partner):",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Own your home with a mortgage or loan"
+      },
+      {
+        "value": "2",
+        "text": "Own your home free and clear (without a mortgage or loan)"
+      },
+      {
+        "value": "3",
+        "text": "Pay rent"
+      },
+      {
+        "value": "4",
+        "text": "Neither own nor pay rent"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "GH12": {
+    "label": "GH12",
+    "description": "Do you have either a homeowner’s insurance or a condo insurance policy for your primary residence?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "25.48%",
+    "valid_count": 2905,
+    "total_count": 11400
+  },
+  "R1_a": {
+    "label": "R1_A",
+    "description": "Renting is cheaper - Are each of the following a reason why you rent your home rather than own?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "25.40%",
+    "valid_count": 2896,
+    "total_count": 11400
+  },
+  "R1_b": {
+    "label": "R1_B",
+    "description": "Renting is less financially risky - Are each of the following a reason why you rent your home rather than own?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "25.40%",
+    "valid_count": 2896,
+    "total_count": 11400
+  },
+  "R1_c": {
+    "label": "R1_C",
+    "description": "Renting is more convenient or flexible – Are each of the following a reason why you rent your home rather than own?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "25.40%",
+    "valid_count": 2896,
+    "total_count": 11400
+  },
+  "R1_d": {
+    "label": "R1_D",
+    "description": "Trying to buy - Are each of the following a reason why you rent your home rather than own?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "25.40%",
+    "valid_count": 2896,
+    "total_count": 11400
+  },
+  "R1_e": {
+    "label": "R1_E",
+    "description": "Can't qualify for home mortgage - Are each of the following a reason why you rent your home rather than own?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "25.40%",
+    "valid_count": 2896,
+    "total_count": 11400
+  },
+  "R1_f": {
+    "label": "R1_F",
+    "description": "Can't afford down payment to buy - Are each of the following a reason why you rent your home rather than own?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "25.40%",
+    "valid_count": 2896,
+    "total_count": 11400
+  },
+  "R1_g": {
+    "label": "R1_G",
+    "description": "Can't afford mortgage monthly payment – Are each of the following a reason why you rent your home rather than own?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "25.40%",
+    "valid_count": 2896,
+    "total_count": 11400
+  },
+  "R1_h": {
+    "label": "R1_H",
+    "description": "Prefer to rent - Are each of the following a reason why you rent your home rather than own?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "25.40%",
+    "valid_count": 2896,
+    "total_count": 11400
+  },
+  "GH2": {
+    "label": "GH2",
+    "description": "When did you move into your current home?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Before 2022"
+      },
+      {
+        "value": "2",
+        "text": "2022"
+      },
+      {
+        "value": "3",
+        "text": "2023"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "R4": {
+    "label": "R4",
+    "description": "Before your most recent move, did you own your previous home?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes, and I still own that home"
+      },
+      {
+        "value": "2",
+        "text": "Yes, and I no longer own that home"
+      }
+    ],
+    "availability_rate": "7.03%",
+    "valid_count": 801,
+    "total_count": 11400
+  },
+  "R5E": {
+    "label": "R5E",
+    "description": "Was the main reason that you moved in the past year because of rent increases at your previous home or apartment?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "5.02%",
+    "valid_count": 572,
+    "total_count": 11400
+  },
+  "R5B_a": {
+    "label": "R5B_A",
+    "description": "Evicted or received an eviction notice - Did each of the following contribute to your moving in the past year?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "5.02%",
+    "valid_count": 572,
+    "total_count": 11400
+  },
+  "R5B_b": {
+    "label": "R5B_B",
+    "description": "Landlord told you, or a person you were staying with, to leave - Did each of the following contribute to your moving in the past year?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "5.02%",
+    "valid_count": 572,
+    "total_count": 11400
+  },
+  "R5B_c": {
+    "label": "R5B_C",
+    "description": "You missed a rent payment and thought you would be evicted - Did each of the following contribute to your moving in the past year?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "5.02%",
+    "valid_count": 572,
+    "total_count": 11400
+  },
+  "R5B_d": {
+    "label": "R5B_D",
+    "description": "City condemned the property and forced you to leave - Did each of the following contribute to your moving in the past year?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "5.02%",
+    "valid_count": 572,
+    "total_count": 11400
+  },
+  "R5C_a": {
+    "label": "R5C_A",
+    "description": "Bank took possession of your home in foreclosure - Did each of the following contribute to your moving in the past year?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "1.59%",
+    "valid_count": 181,
+    "total_count": 11400
+  },
+  "R5C_b": {
+    "label": "R5C_B",
+    "description": "Received a notice from bank that they planned to foreclose- Did each of the following contribute to your moving in the past year?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "1.59%",
+    "valid_count": 181,
+    "total_count": 11400
+  },
+  "R5C_c": {
+    "label": "R5C_C",
+    "description": "Missed mortgage payments and thought bank would foreclose - Did each of the following contribute to your moving in the past year?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "1.59%",
+    "valid_count": 181,
+    "total_count": 11400
+  },
+  "R5C_d": {
+    "label": "R5C_D",
+    "description": "City condemned the property and forced you to leave - Did each of the following contribute to your moving in the past year?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "1.59%",
+    "valid_count": 181,
+    "total_count": 11400
+  },
+  "R3": {
+    "label": "R3",
+    "description": "Approximately how much do you (and/or your spouse or partner) pay for rent each month?",
+    "code_values": [
+      {
+        "value": "0-8500",
+        "text": "Numeric value (Examples: 1800)"
+      }
+    ],
+    "availability_rate": "25.40%",
+    "valid_count": 2896,
+    "total_count": 11400
+  },
+  "R11": {
+    "label": "R11",
+    "description": "Have you been behind on your rent at any time in the past year?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "25.40%",
+    "valid_count": 2896,
+    "total_count": 11400
+  },
+  "M4": {
+    "label": "M4",
+    "description": "Approximately how much is your total monthly mortgage payment (i.e. the amount you send to the bank)?",
+    "code_values": [
+      {
+        "value": "0-9999",
+        "text": "Numeric value (Examples: 1368, 3400)"
+      }
+    ],
+    "availability_rate": "42.23%",
+    "valid_count": 4814,
+    "total_count": 11400
+  },
+  "GH3_a": {
+    "label": "GH3_A",
+    "description": "Overall quality - How satisfied are you with each of the following aspects of your neighborhood?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Very dissatisfied"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat dissatisfied"
+      },
+      {
+        "value": "3",
+        "text": "Neither satisfied nor dissatisfied"
+      },
+      {
+        "value": "4",
+        "text": "Somewhat satisfied"
+      },
+      {
+        "value": "5",
+        "text": "Very satisfied"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "GH3_b": {
+    "label": "GH3_B",
+    "description": "Quality of your local schools - How satisfied are you with each of the following aspects of your neighborhood?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Very dissatisfied"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat dissatisfied"
+      },
+      {
+        "value": "3",
+        "text": "Neither satisfied nor dissatisfied"
+      },
+      {
+        "value": "4",
+        "text": "Somewhat satisfied"
+      },
+      {
+        "value": "5",
+        "text": "Very satisfied"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "GH3_c": {
+    "label": "GH3_C",
+    "description": "Crime risk - How satisfied are you with each of the following aspects of your neighborhood?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Very dissatisfied"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat dissatisfied"
+      },
+      {
+        "value": "3",
+        "text": "Neither satisfied nor dissatisfied"
+      },
+      {
+        "value": "4",
+        "text": "Somewhat satisfied"
+      },
+      {
+        "value": "5",
+        "text": "Very satisfied"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "GH3_d": {
+    "label": "GH3_D",
+    "description": "Natural disaster and severe weather risk - How satisfied are you with each of the following aspects of your neighborhood?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Very dissatisfied"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat dissatisfied"
+      },
+      {
+        "value": "3",
+        "text": "Neither satisfied nor dissatisfied"
+      },
+      {
+        "value": "4",
+        "text": "Somewhat satisfied"
+      },
+      {
+        "value": "5",
+        "text": "Very satisfied"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "GH3_e": {
+    "label": "GH3_E",
+    "description": "Cost of housing - How satisfied are you with each of the following aspects of your neighborhood?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Very dissatisfied"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat dissatisfied"
+      },
+      {
+        "value": "3",
+        "text": "Neither satisfied nor dissatisfied"
+      },
+      {
+        "value": "4",
+        "text": "Somewhat satisfied"
+      },
+      {
+        "value": "5",
+        "text": "Very satisfied"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ND0": {
+    "label": "ND0",
+    "description": "In the past year, have you been financially affected natural disasters or severe weather events like flooding, hurricanes, wildfires, or extreme temperatures?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes, slightly"
+      },
+      {
+        "value": "2",
+        "text": "Yes, moderately"
+      },
+      {
+        "value": "3",
+        "text": "Yes, substantially"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ND1_a": {
+    "label": "ND1_A",
+    "description": "Income loss or work disruption - In the past year, have natural disasters or severe weather events like flooding, hurricanes, wildfires, or extreme temperatures affected you in each of the following ways?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "18.75%",
+    "valid_count": 2137,
+    "total_count": 11400
+  },
+  "ND1_b": {
+    "label": "ND1_B",
+    "description": "Property damage - In the past year, have natural disasters or severe weather events like flooding, hurricanes, wildfires, or extreme temperatures affected you in each of the following ways?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "18.75%",
+    "valid_count": 2137,
+    "total_count": 11400
+  },
+  "ND1_c": {
+    "label": "ND1_C",
+    "description": "Needed to evacuate temporarily - In the past year, have natural disasters or severe weather events like flooding, hurricanes, wildfires, or extreme temperatures affected you in each of the following ways?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "18.75%",
+    "valid_count": 2137,
+    "total_count": 11400
+  },
+  "ND1_d": {
+    "label": "ND1_D",
+    "description": "Longer-term displacement from home - In the past year, have natural disasters or severe weather events like flooding, hurricanes, wildfires, or extreme temperatures affected you in each of the following ways?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "18.75%",
+    "valid_count": 2137,
+    "total_count": 11400
+  },
+  "ND1_e": {
+    "label": "ND1_E",
+    "description": "Other (please specify) - In the past year, have natural disasters or severe weather events like flooding, hurricanes, wildfires, or extreme temperatures affected you in each of the following ways?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "18.75%",
+    "valid_count": 2137,
+    "total_count": 11400
+  },
+  "ND2": {
+    "label": "ND2",
+    "description": "Five years from now, do you think that the chance that you will experience a natural disaster or severe weather event will be higher, lower or about the same as it is now?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Much higher"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat higher"
+      },
+      {
+        "value": "3",
+        "text": "About the same"
+      },
+      {
+        "value": "4",
+        "text": "Somewhat lower"
+      },
+      {
+        "value": "5",
+        "text": "Much lower"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ND4_a": {
+    "label": "ND4_A",
+    "description": "Investigated other places to live - In the past year, have you done each of the following at least partially because of the threat of natural disasters or severe weather events?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ND4_b": {
+    "label": "ND4_B",
+    "description": "Improved your property to reduce risk - In the past year, have you done each of the following at least partially because of the threat of natural disasters or severe weather events?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ND4_c": {
+    "label": "ND4_C",
+    "description": "Purchased additional insurance - In the past year, have you done each of the following at least partially because of the threat of natural disasters or severe weather events?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "BK1": {
+    "label": "BK1",
+    "description": "Do you (and/or your spouse or partner) currently have a checking, savings or money market account?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "BK2_a": {
+    "label": "BK2_A",
+    "description": "Purchase a money order from a place other than a bank - In the past 12 months, did you (and/or your spouse or partner):",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "BK2_b": {
+    "label": "BK2_B",
+    "description": "Cash a check at a place other than a bank - In the past 12 months, did you (and/or your spouse or partner):",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "BK2_c": {
+    "label": "BK2_C",
+    "description": "Take out a payday loan or payday advance - In the past 12 months, did you (and/or your spouse or partner):",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "BK2_d": {
+    "label": "BK2_D",
+    "description": "Take out a pawn shop loan or an auto title loan - In the past 12 months, did you (and/or your spouse or partner):",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "BK2_e": {
+    "label": "BK2_E",
+    "description": "Obtain a tax refund advance to receive your refund faster - In the past 12 months, did you (and/or you spouse or partner):",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "BK2_f": {
+    "label": "BK2_F",
+    "description": "Pay an overdraft fee on a bank account - In the past 12 months, did you (and/or your spouse or partner):",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "94.89%",
+    "valid_count": 10817,
+    "total_count": 11400
+  },
+  "A6": {
+    "label": "A6",
+    "description": "If you were to apply for a credit card today, how confident are you that your application would be approved?",
+    "code_values": [
+      {
+        "value": "-2",
+        "text": "Don’t know"
+      },
+      {
+        "value": "1",
+        "text": "Very confident"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat confident"
+      },
+      {
+        "value": "3",
+        "text": "Not confident"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "A0": {
+    "label": "A0",
+    "description": "In the past 12 months have you applied for any credit (such as a credit card, higher credit card limit, mortgage, refinance, student loan, personal loan, or other loan)?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "A7_a": {
+    "label": "A7_A",
+    "description": "Credit card - Have you applied for each of the following types of credit in the past 12 month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "35.15%",
+    "valid_count": 4007,
+    "total_count": 11400
+  },
+  "A7_b": {
+    "label": "A7_B",
+    "description": "Car/auto loan - Have you applied for each of the following types of credit in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "35.15%",
+    "valid_count": 4007,
+    "total_count": 11400
+  },
+  "A7_c": {
+    "label": "A7_C",
+    "description": "Student loan - Have you applied for each of the following types of credit in the past 12 month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "35.15%",
+    "valid_count": 4007,
+    "total_count": 11400
+  },
+  "A7_d": {
+    "label": "A7_D",
+    "description": "Mortgage (purchase or refinance) - Have you applied for each of the following types of credit in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "35.15%",
+    "valid_count": 4007,
+    "total_count": 11400
+  },
+  "A7_e": {
+    "label": "A7_E",
+    "description": "Home equity loan or line of credit - Have you applied for each of the following types of credit in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "35.15%",
+    "valid_count": 4007,
+    "total_count": 11400
+  },
+  "A7_f": {
+    "label": "A7_F",
+    "description": "Other credit or loan - Have you applied for each of the following types of credit in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "35.15%",
+    "valid_count": 4007,
+    "total_count": 11400
+  },
+  "A0B": {
+    "label": "A0B",
+    "description": "Was there a time in the past 12 months that you desired credit but chose not to submit a credit application?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "64.85%",
+    "valid_count": 7393,
+    "total_count": 11400
+  },
+  "A1_a": {
+    "label": "A1_A",
+    "description": "Turned down for credit - In the past 12 months, has each of the following happen to you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "35.15%",
+    "valid_count": 4007,
+    "total_count": 11400
+  },
+  "A1_b": {
+    "label": "A1_B",
+    "description": "Approved for credit, but were not given as much credit as you applied for - In the past 12 months, has each of the following happened to you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "35.15%",
+    "valid_count": 4007,
+    "total_count": 11400
+  },
+  "A1_c": {
+    "label": "A1_C",
+    "description": "Put off applying for credit because you thought you might be turned down - In the past 12 months, has each of the following happened to you:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "35.15%",
+    "valid_count": 4007,
+    "total_count": 11400
+  },
+  "A8_a": {
+    "label": "A8_A",
+    "description": "Were you turned down or offered less credit than requested for the following types of credit in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "8.70%",
+    "valid_count": 992,
+    "total_count": 11400
+  },
+  "A8_b": {
+    "label": "A8_B",
+    "description": "Were you turned down or offered less credit than requested for the following types of credit in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "2.61%",
+    "valid_count": 297,
+    "total_count": 11400
+  },
+  "A8_c": {
+    "label": "A8_C",
+    "description": "Were you turned down or offered less credit than requested for the following types of credit in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "1.04%",
+    "valid_count": 119,
+    "total_count": 11400
+  },
+  "A8_d": {
+    "label": "A8_D",
+    "description": "Were you turned down or offered less credit than requested for the following types of credit in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "1.03%",
+    "valid_count": 117,
+    "total_count": 11400
+  },
+  "A8_e": {
+    "label": "A8_E",
+    "description": "Were you turned down or offered less credit than requested for the following types of credit in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "0.82%",
+    "valid_count": 93,
+    "total_count": 11400
+  },
+  "A8_f": {
+    "label": "A8_F",
+    "description": "Were you turned down or offered less credit than requested for the following types of credit in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "3.71%",
+    "valid_count": 423,
+    "total_count": 11400
+  },
+  "A2": {
+    "label": "A2",
+    "description": "You indicated that you desired credit in the past 12 months but did not submit a credit application. Was this because you thought that you might be turned down or denied credit?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "6.53%",
+    "valid_count": 744,
+    "total_count": 11400
+  },
+  "C2A": {
+    "label": "C2A",
+    "description": "Do you currently have at least one credit card? Please do not include debit cards or prepaid cards.",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "C3P": {
+    "label": "C3P",
+    "description": "Last month, how did you handle your credit card bills?",
+    "code_values": [
+      {
+        "value": "-9",
+        "text": "did not use any of my credit cards so had no balances"
+      },
+      {
+        "value": "1",
+        "text": "paid at least the minimum payment on all credit cards"
+      },
+      {
+        "value": "2",
+        "text": "did not pay or paid less than the minimum payment on at least one card"
+      }
+    ],
+    "availability_rate": "84.50%",
+    "valid_count": 9633,
+    "total_count": 11400
+  },
+  "C4A": {
+    "label": "C4A",
+    "description": "In the past 12 months, how frequently have you carried an unpaid balance on one or more of your credit cards?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "Never carried an unpaid balance (always pay in full)"
+      },
+      {
+        "value": "1",
+        "text": "Once"
+      },
+      {
+        "value": "2",
+        "text": "Some of the time"
+      },
+      {
+        "value": "3",
+        "text": "Most or all of the time"
+      }
+    ],
+    "availability_rate": "84.50%",
+    "valid_count": 9633,
+    "total_count": 11400
+  },
+  "BNPL1": {
+    "label": "BNPL1",
+    "description": "In the past year, have you used a “Buy Now Pay Later” service to buy something?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "BNPL3": {
+    "label": "BNPL3",
+    "description": "In the past year, have you ever been late making a payment for something you bought using a Buy Now Pay Later service?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.76%",
+    "valid_count": 1455,
+    "total_count": 11400
+  },
+  "BNPL3A": {
+    "label": "BNPL3A",
+    "description": "In the past year, have you been charged extra because you were late on a buy now pay later payment?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "2.14%",
+    "valid_count": 244,
+    "total_count": 11400
+  },
+  "BNPL4_a": {
+    "label": "BNPL4_A",
+    "description": "Avoid interest charges - Thinking about the most recent time you used a Buy Now Pay Later service, were each of the following a reason why you chose to finance the purchase in this way?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.76%",
+    "valid_count": 1455,
+    "total_count": 11400
+  },
+  "BNPL4_b": {
+    "label": "BNPL4_B",
+    "description": "Wanted to spread out payments - Thinking about the most recent time you used a Pay Later service, were each of the following a reason why you chose to finance the purchase in this way?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.76%",
+    "valid_count": 1455,
+    "total_count": 11400
+  },
+  "BNPL4_c": {
+    "label": "BNPL4_C",
+    "description": "Wanted a fixed number of payments - Thinking about the most recent time you used a Buy Now Pay Later service, were each of the following a reason why you chose to finance the purchase in this way?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.76%",
+    "valid_count": 1455,
+    "total_count": 11400
+  },
+  "BNPL4_d": {
+    "label": "BNPL4_D",
+    "description": "Convenience - Thinking about the most recent time you used a Buy Now Pay Later service, were each of the following a reason why you chose to finance the purchase in this way?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.76%",
+    "valid_count": 1455,
+    "total_count": 11400
+  },
+  "BNPL4_e": {
+    "label": "BNPL4_E",
+    "description": "Only way I could afford it - Thinking about the most recent time you used a Buy Now Pay Later service, were each of the following a reason why you chose to finance the purchase in this way?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.76%",
+    "valid_count": 1455,
+    "total_count": 11400
+  },
+  "BNPL4_f": {
+    "label": "BNPL4_F",
+    "description": "Only accepted payment method I had - Thinking about the most recent time you used a Buy Now Pay Later service, were each of the following a reason why you chose to finance the purchase in this way?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.76%",
+    "valid_count": 1455,
+    "total_count": 11400
+  },
+  "BNPL4_g": {
+    "label": "BNPL4_G",
+    "description": "Did not want to use a credit card - Thinking about the most recent time you used a Buy Now Pay Later service, were each of the following a reason why you chose to finance the purchase in this way?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.76%",
+    "valid_count": 1455,
+    "total_count": 11400
+  },
+  "S16_a": {
+    "label": "S16_A",
+    "description": "Bought cryptocurrency or held as an investment - In the past year, have you done the following with cryptocurrency, such as Bitcoin or Ethereum?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "S16_b": {
+    "label": "S16_B",
+    "description": "Used cryptocurrency to buy something or make a payment - In the past year, have you done the following with cryptocurrency, such as Bitcoin or Ethereum?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "S16_c": {
+    "label": "S16_C",
+    "description": "Used cryptocurrency to send money to friends or family - In the past year, have you done the following with cryptocurrency, such as Bitcoin or Ethereum?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "S18": {
+    "label": "S18",
+    "description": "Were any of the family or friends you sent cryptocurrency to living outside of the United States?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "0.68%",
+    "valid_count": 77,
+    "total_count": 11400
+  },
+  "S21": {
+    "label": "S21",
+    "description": "What was the main reason you used cryptocurrency to buy something, make a payment, or send money?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Privacy"
+      },
+      {
+        "value": "2",
+        "text": "To send the money faster"
+      },
+      {
+        "value": "3",
+        "text": "Cheaper"
+      },
+      {
+        "value": "4",
+        "text": "Safer"
+      },
+      {
+        "value": "5",
+        "text": "Don’t trust banks"
+      },
+      {
+        "value": "6",
+        "text": "Person or business receiving the money preferred cryptocurrency"
+      },
+      {
+        "value": "7",
+        "text": "Other (please specify)"
+      }
+    ],
+    "availability_rate": "1.39%",
+    "valid_count": 159,
+    "total_count": 11400
+  },
+  "ED0": {
+    "label": "ED0",
+    "description": "What is the highest level of school you have completed or the highest degree you have received?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Less than high school degree"
+      },
+      {
+        "value": "2",
+        "text": "High school degree or GED"
+      },
+      {
+        "value": "3",
+        "text": "Some college but no degree (including currently enrolled in college)"
+      },
+      {
+        "value": "4",
+        "text": "Certificate or technical degree"
+      },
+      {
+        "value": "5",
+        "text": "Associate degree"
+      },
+      {
+        "value": "6",
+        "text": "Bachelor’s degree"
+      },
+      {
+        "value": "7",
+        "text": "Master’s degree"
+      },
+      {
+        "value": "8",
+        "text": "Professional degree (e.g., MBA, MD, JD)"
+      },
+      {
+        "value": "9",
+        "text": "Doctoral degree"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "D1G": {
+    "label": "D1G",
+    "description": "Are you currently enrolled as a student?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes, as a part-time student"
+      },
+      {
+        "value": "2",
+        "text": "Yes, as a full-time student"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ED0B": {
+    "label": "ED0B",
+    "description": "What type of program are you currently pursuing?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "High school or GED program"
+      },
+      {
+        "value": "2",
+        "text": "Non-degree training program"
+      },
+      {
+        "value": "3",
+        "text": "Certificate or technical degree"
+      },
+      {
+        "value": "4",
+        "text": "Associate degree"
+      },
+      {
+        "value": "5",
+        "text": "Bachelor’s degree"
+      },
+      {
+        "value": "6",
+        "text": "Master’s degree"
+      },
+      {
+        "value": "7",
+        "text": "Professional degree (e.g., MBA, MD, JD)"
+      },
+      {
+        "value": "8",
+        "text": "Doctoral degree"
+      }
+    ],
+    "availability_rate": "6.12%",
+    "valid_count": 698,
+    "total_count": 11400
+  },
+  "ED0D": {
+    "label": "ED0D",
+    "description": "Have you ever enrolled in an educational degree program beyond high school?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "22.01%",
+    "valid_count": 2509,
+    "total_count": 11400
+  },
+  "ED1": {
+    "label": "ED1",
+    "description": "Which one of the following broad categories best describes your current or most recent educational program?",
+    "code_values": [],
+    "availability_rate": "75.92%",
+    "valid_count": 8655,
+    "total_count": 11400
+  },
+  "ED4": {
+    "label": "ED4",
+    "description": "In what year did you last attend this educational program?",
+    "code_values": [],
+    "availability_rate": "21.11%",
+    "valid_count": 2407,
+    "total_count": 11400
+  },
+  "ED9": {
+    "label": "ED9",
+    "description": "In what year did you receive your Associate degree or above, or some college and not enrolled?",
+    "code_values": [],
+    "availability_rate": "51.86%",
+    "valid_count": 5912,
+    "total_count": 11400
+  },
+  "ED10": {
+    "label": "ED10",
+    "description": "Overall, how would you say the lifetime financial benefits of your (Associate Degree/Bachelor's Degree) compares to its costs?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Financial benefits are much larger"
+      },
+      {
+        "value": "2",
+        "text": "Financial benefits are somewhat larger"
+      },
+      {
+        "value": "3",
+        "text": "About the same"
+      },
+      {
+        "value": "4",
+        "text": "Financial costs are somewhat larger"
+      },
+      {
+        "value": "5",
+        "text": "Financial costs are much larger"
+      }
+    ],
+    "availability_rate": "73.17%",
+    "valid_count": 8341,
+    "total_count": 11400
+  },
+  "ED11_a": {
+    "label": "ED11_A",
+    "description": "Chosen a different field of study - If you could go back and make decisions regarding your (Associates Degree/Bachelor's degree) again would you have done each of these things?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "73.17%",
+    "valid_count": 8341,
+    "total_count": 11400
+  },
+  "ED11_b": {
+    "label": "ED11_B",
+    "description": "Attended a different school - If you could go back and make decisions regarding your (Associates Degree/Bachelor's Degree) again would you have done each of these things?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "73.17%",
+    "valid_count": 8341,
+    "total_count": 11400
+  },
+  "ED11_c": {
+    "label": "ED11_C",
+    "description": "Not attended college or completed less education - If you could go back and make your decisions regarding your [Associates Degree/Bachelor's Degree) again would you have done each of these things?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "73.17%",
+    "valid_count": 8341,
+    "total_count": 11400
+  },
+  "ED11_d": {
+    "label": "ED11_D",
+    "description": "Completed more education- If you could go back and make decisions regarding your (Associates Degree/Bachelor's Degree) would you have done each of these things:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "73.17%",
+    "valid_count": 8341,
+    "total_count": 11400
+  },
+  "SL1": {
+    "label": "SL1",
+    "description": "Do you currently have any student loan debt from your own education?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "SL3": {
+    "label": "SL3",
+    "description": "How much do you currently owe on student loans for your own education?",
+    "code_values": [],
+    "availability_rate": "12.82%",
+    "valid_count": 1461,
+    "total_count": 11400
+  },
+  "SL4A": {
+    "label": "SL4A",
+    "description": "Are you currently required to make monthly payments on any of your student loans from your own education?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.82%",
+    "valid_count": 1461,
+    "total_count": 11400
+  },
+  "SL4": {
+    "label": "SL4",
+    "description": "Approximately how much is your current required monthly payment on the student loans from your own education?",
+    "code_values": [
+      {
+        "value": "-2",
+        "text": "Don’t know"
+      },
+      {
+        "value": "2",
+        "text": "$1 to $99"
+      },
+      {
+        "value": "3",
+        "text": "$100 to $199"
+      },
+      {
+        "value": "4",
+        "text": "$200 to $299"
+      },
+      {
+        "value": "5",
+        "text": "$300 to $399"
+      },
+      {
+        "value": "6",
+        "text": "$400 to $499"
+      },
+      {
+        "value": "7",
+        "text": "$500 to $999"
+      },
+      {
+        "value": "8",
+        "text": "$1,000 or above"
+      }
+    ],
+    "availability_rate": "8.52%",
+    "valid_count": 971,
+    "total_count": 11400
+  },
+  "SL6": {
+    "label": "SL6",
+    "description": "Are you behind on payments or in collections for one or more of the student loans from your own education?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "12.82%",
+    "valid_count": 1461,
+    "total_count": 11400
+  },
+  "SL7": {
+    "label": "SL7",
+    "description": "Did you take out any student loans to pay for your own education that you have since repaid?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "87.18%",
+    "valid_count": 9939,
+    "total_count": 11400
+  },
+  "SL8_a": {
+    "label": "SL8_A",
+    "description": "Certificate or technical training - Still thinking about your own education, did you take out any student loans for each of the following educational programs (including any repaid loans for education you did not complete)?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "32.20%",
+    "valid_count": 3671,
+    "total_count": 11400
+  },
+  "SL8_b": {
+    "label": "SL8_B",
+    "description": "Associate degree - Still thinking about your own education, did you take out any student loans for each of the following educational programs (including any repaid loans for education you did not complete)?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "32.20%",
+    "valid_count": 3671,
+    "total_count": 11400
+  },
+  "SL8_c": {
+    "label": "SL8_C",
+    "description": "Bachelor's degree - Still thinking about your own education, did you take out any student loans for each of the following educational programs (including any repaid loans for education you did not complete)?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "32.20%",
+    "valid_count": 3671,
+    "total_count": 11400
+  },
+  "SL8_d": {
+    "label": "SL8_D",
+    "description": "Professional degree (e.g., MBA, MD, JD) - Still thinking about your own education, did you take out any student loans for each of the following educational programs (including any repaid loans for education you did not complete)?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "32.20%",
+    "valid_count": 3671,
+    "total_count": 11400
+  },
+  "SL8_e": {
+    "label": "SL8_E",
+    "description": "Master's degree or doctoral degree - Still thinking about your own education, did you take out any student loans for each of the following educational programs (including any repaid loan for education you did not complete)?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "32.20%",
+    "valid_count": 3671,
+    "total_count": 11400
+  },
+  "SL10A": {
+    "label": "SL10A",
+    "description": "Does your spouse or partner currently have any student loans used to pay for their education?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "66.06%",
+    "valid_count": 7531,
+    "total_count": 11400
+  },
+  "SL11": {
+    "label": "SL11",
+    "description": "Do you currently have any student loans used to pay for your child's or grandchild’s education?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      },
+      {
+        "value": "999",
+        "text": "Do not have children or grandchildren"
+      }
+    ],
+    "availability_rate": "84.75%",
+    "valid_count": 9661,
+    "total_count": 11400
+  },
+  "SL13": {
+    "label": "SL13",
+    "description": "How much do you owe on student loans for your child or grandchild’s education?",
+    "code_values": [],
+    "availability_rate": "4.86%",
+    "valid_count": 554,
+    "total_count": 11400
+  },
+  "D1I": {
+    "label": "D1I",
+    "description": "Do you consider yourself to be retired?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "K0": {
+    "label": "K0",
+    "description": "Do you think that your retirement savings plan is currently on track?",
+    "code_values": [
+      {
+        "value": "-2",
+        "text": "Don’t know"
+      },
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "66.80%",
+    "valid_count": 7615,
+    "total_count": 11400
+  },
+  "K8B": {
+    "label": "K8B",
+    "description": "When did you retire?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Within the past year"
+      },
+      {
+        "value": "2",
+        "text": "1 or 2 years ago"
+      },
+      {
+        "value": "3",
+        "text": "3 or 4 years ago"
+      },
+      {
+        "value": "4",
+        "text": "5 years ago or more"
+      }
+    ],
+    "availability_rate": "33.20%",
+    "valid_count": 3785,
+    "total_count": 11400
+  },
+  "K9_a": {
+    "label": "K9_A",
+    "description": "Health problem - Were each of the following important to your decision to retire at the age that you did?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.20%",
+    "valid_count": 3785,
+    "total_count": 11400
+  },
+  "K9_b": {
+    "label": "K9_B",
+    "description": "Wanted to do other things or spend time with family - Were each of the following important to your decision to retire at the age that you did?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.20%",
+    "valid_count": 3785,
+    "total_count": 11400
+  },
+  "K9_c": {
+    "label": "K9_C",
+    "description": "Didn't like the work - Were each of the following important to your decision to retire at the age that you did?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.20%",
+    "valid_count": 3785,
+    "total_count": 11400
+  },
+  "K9_d": {
+    "label": "K9_D",
+    "description": "Care for family members - Were each of the following important to your decision to retire at the age that you did?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.20%",
+    "valid_count": 3785,
+    "total_count": 11400
+  },
+  "K9_e": {
+    "label": "K9_E",
+    "description": "Reached normal retirement age - Were each of the following important to your decision to retire at the age that you did?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.20%",
+    "valid_count": 3785,
+    "total_count": 11400
+  },
+  "K9_f": {
+    "label": "K9_F",
+    "description": "Forced to retire or lack of available work - Were each of the following important to your decision to retire at the age that you did?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "33.20%",
+    "valid_count": 3785,
+    "total_count": 11400
+  },
+  "K21_a": {
+    "label": "K21_A",
+    "description": "Retirement savings account, such as a 401(k) plan through an employer, IRA or Roth IRA - Do you currently have each of the following types of savings or assets?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "K21_b": {
+    "label": "K21_B",
+    "description": "Pension with a defined benefit through an employer that will pay a monthly amount in retirement - Do you currently have each of the following types of savings or assets?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "K21_c": {
+    "label": "K21_C",
+    "description": "Stocks, bonds, ETFs, or mutual funds held outside a retirement account - Do you currently have each of the following types of savings or assets?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "K21_d": {
+    "label": "K21_D",
+    "description": "Savings account, money market account, or certificate of deposit (CD) - Do you currently have each of the following types of savings or assets?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "K21_e": {
+    "label": "K21_E",
+    "description": "Cash value in a life insurance policy - Do you currently have each of the following types of savings or assets?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "K21_f": {
+    "label": "K21_F",
+    "description": "Business or real estate investment (other than your primary residence) - Do you currently have each of the following types of savings or assets?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "DC4": {
+    "label": "DC4",
+    "description": "How comfortable are you with choosing and managing your investments?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Very comfortable"
+      },
+      {
+        "value": "2",
+        "text": "Mostly comfortable"
+      },
+      {
+        "value": "3",
+        "text": "Slightly comfortable"
+      },
+      {
+        "value": "4",
+        "text": "Not comfortable"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "K5A_a": {
+    "label": "K5A_A",
+    "description": "Borrowed money - In the past 12 months, have you done each of the following with money in your retirement accounts?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "66.80%",
+    "valid_count": 7615,
+    "total_count": 11400
+  },
+  "K5A_b": {
+    "label": "K5A_B",
+    "description": "Cashed out (permanently withdrawn) money - In the past 12 months, have you done each of the following with money in your retirement accounts?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "66.80%",
+    "valid_count": 7615,
+    "total_count": 11400
+  },
+  "K5A_c": {
+    "label": "K5A_C",
+    "description": "Reduced your regular contributions to accounts - In the past 12 months, have you done each of the following with money in your retirement accounts?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "66.80%",
+    "valid_count": 7615,
+    "total_count": 11400
+  },
+  "I0_a": {
+    "label": "I0_A",
+    "description": "Wages, salaries, or self-employment income - In the past 12 months, did you [and/or your spouse or partner] receive any income from the following sources:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I0_b": {
+    "label": "I0_B",
+    "description": "Interest, dividends, or rental income - In the past 12 months, did you [and/or your spouse or partner] receive any income from the following sources:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I0_c": {
+    "label": "I0_C",
+    "description": "Social Security (including old age and DI) - In the past 12 months, did you [and/or your spouse or partner] receive any income from the following sources:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I0_d": {
+    "label": "I0_D",
+    "description": "Supplemental Security Income (SSI), TANF, or cash assistance from a welfare program - In the past 12 months, did you [and/or your spouse or partner] receive any income from the following sources:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I0_e": {
+    "label": "I0_E",
+    "description": "Unemployment income - In the past 12 months, did you [and/or your spouse or partner] receive any income from the following sources:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I0_f": {
+    "label": "I0_F",
+    "description": "Pension - In the past 12 months, did you [and/or your spouse or partner] receive any income from the following sources:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I40": {
+    "label": "I40",
+    "description": "Which category represents your [and your spouse/partner’s] total combined income in the past 12 months?",
+    "code_values": [],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I41_a": {
+    "label": "I41_A",
+    "description": "Earned Income Tax Credit (EITC) - In the past 12 months, have you [and/or your spouse or partner] received any of the following?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I41_b": {
+    "label": "I41_B",
+    "description": "Supplemental Nutrition Assistance Program (SNAP or food stamps) - In the past 12 months, have you [and/or your spouse or partner] received any of the following?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I41_c": {
+    "label": "I41_C",
+    "description": "Women, Infants, and Children (WIC) nutrition program benefits - In the past 12 months, have you [and/or your spouse or partner] received any of the following?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I41_d": {
+    "label": "I41_D",
+    "description": "Housing assistance from government program - In the past 12 months, have you [and/or your spouse or partner] received any of the following?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I41_e": {
+    "label": "I41_E",
+    "description": "Free or reduced price school lunches for your children - In the past 12 months, have you [and/or your spouse or partner] received any of the following?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "23.30%",
+    "valid_count": 2656,
+    "total_count": 11400
+  },
+  "I9": {
+    "label": "I9",
+    "description": "In the past 12 months, which one of the following best describes your [and your spouse's or partner's] income?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Roughly the same amount each month"
+      },
+      {
+        "value": "2",
+        "text": "Occasionally varies from month to month"
+      },
+      {
+        "value": "3",
+        "text": "Varies quite often from month to month"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I12": {
+    "label": "I12",
+    "description": "Because your income varies, have you [and your spouse or partner] struggled to pay your bills in the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "26.59%",
+    "valid_count": 3031,
+    "total_count": 11400
+  },
+  "I20": {
+    "label": "I20",
+    "description": "In the past month, would you say that your [and your spouse’s or partner’s] total spending was:",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Less than your income"
+      },
+      {
+        "value": "2",
+        "text": "The same as your income"
+      },
+      {
+        "value": "3",
+        "text": "More than your income"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I21_a": {
+    "label": "I21_A",
+    "description": "Total monthly income - Compared to a year ago, have each of the following [for you and your spouse or partner] increased, decreased or stayed about the same?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Decreased"
+      },
+      {
+        "value": "2",
+        "text": "About the same"
+      },
+      {
+        "value": "3",
+        "text": "Increased"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "I21_b": {
+    "label": "I21_B",
+    "description": "Total monthly spending - Compared to a year ago, have each of the following [for you and your spouse or partner] increased, decreased, or stayed about the same?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Decreased"
+      },
+      {
+        "value": "2",
+        "text": "About the same"
+      },
+      {
+        "value": "3",
+        "text": "Increased"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "INF4": {
+    "label": "INF4",
+    "description": "Overall, have changes in the prices you pay compared to last year made your financial situation worse, better, or had little or no effect?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Much worse"
+      },
+      {
+        "value": "2",
+        "text": "Somewhat worse"
+      },
+      {
+        "value": "3",
+        "text": "Little or no effect"
+      },
+      {
+        "value": "4",
+        "text": "Somewhat better"
+      },
+      {
+        "value": "5",
+        "text": "Much better"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "INF3_a": {
+    "label": "INF3_A",
+    "description": "Switched to cheaper products - Did you take any of the following actions because of increases in prices over the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "INF3_b": {
+    "label": "INF3_B",
+    "description": "Used less or stopped using products - Did you take any of the following actions because of increases in prices over the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "INF3_c": {
+    "label": "INF3_C",
+    "description": "Reduced savings - Did you take any of the following actions because of increases in prices over the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "INF3_d": {
+    "label": "Increased borrowing",
+    "description": "Increased borrowing - Did you take any of the following actions because of increases in prices over the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "INF3_e": {
+    "label": "Delayed a major purchase",
+    "description": "Delayed a major purchase - Did you take any of the following actions because of increases in prices over the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "INF3_f": {
+    "label": "Worked more or got another job",
+    "description": "Worked more or got another job - Did you take any of the following actions because of increases in prices over the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "INF3_g": {
+    "label": "Asked for a raise",
+    "description": "Asked for a raise - Did you take any of the following actions because of increases in prices over the past 12 months?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "11.72%",
+    "valid_count": 1336,
+    "total_count": 11400
+  },
+  "EF1": {
+    "label": "Emergency funds",
+    "description": "Have you set aside emergency or rainy day funds that would cover your expenses for 3 months in case of sickness, job loss, economic downturn, or other emergencies?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "EF2": {
+    "label": "Lose main source of income",
+    "description": "If you were to lose your main source of income (for example job or government benefits)",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "43.14%",
+    "valid_count": 4918,
+    "total_count": 11400
+  },
+  "EF3_a": {
+    "label": "Put it on my credit card and pay it off in full",
+    "description": "Put it on my credit card and pay it off in full at the next statement - Suppose that you have an emergency expense that costs $400. Based on your current financial situation, how would you pay for this expense?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No, did not do this"
+      },
+      {
+        "value": "1",
+        "text": "Put it on my credit card and pay it off in full at the next statement"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "EF3_b": {
+    "label": "Put it on my credit card and pay it off over time",
+    "description": "Put it on my credit card and pay it off over time - Suppose that you have an emergency expense that costs $400. Based on your current financial situation, how would you pay for this expense?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No, did not do this"
+      },
+      {
+        "value": "1",
+        "text": "Put it on my credit card and pay it off over time"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "EF3_c": {
+    "label": "With the money currently in my checking/savings account or with cash",
+    "description": "With the money currently in my checking/savings account or with cash - Suppose that you have an emergency expense that costs $400. Based on your current financial situation, how would you pay for this expense?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No, did not do this"
+      },
+      {
+        "value": "1",
+        "text": "With the money currently in my checking/savings account or with cash"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "EF3_d": {
+    "label": "Using money from a bank loan or line of credit",
+    "description": "Using money from a bank loan or line of credit - Suppose that you have an emergency expense that costs $400. Based on your current financial situation, how would you pay for this expense?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No, did not do this"
+      },
+      {
+        "value": "1",
+        "text": "Using money from a bank loan or line of credit"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "EF3_e": {
+    "label": "By borrowing from a friend or family member",
+    "description": "By borrowing from a friend or family member - Suppose that you have an emergency expense that costs $400. Based on your current financial situation, how would you pay for this expense?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No, did not do this"
+      },
+      {
+        "value": "1",
+        "text": "By borrowing from a friend or family member"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "EF3_f": {
+    "label": "Using a payday loan, deposit advance, or overdraft",
+    "description": "Using a payday loan, deposit advance, or overdraft - Suppose that you have an emergency expense that costs $400. Based on your current financial situation, how would you pay for this expense?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No, did not do this"
+      },
+      {
+        "value": "1",
+        "text": "Using a payday loan, deposit advance, or overdraft"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "EF3_g": {
+    "label": "By selling something",
+    "description": "By selling something - Suppose that you have an emergency expense that costs $400. Based on your current financial situation, how would you pay for this expense?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No, did not do this"
+      },
+      {
+        "value": "1",
+        "text": "By selling something"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "EF3_h": {
+    "label": "I wouldn't be able to pay for the expense right now",
+    "description": "I wouldn't be able to pay for the expense right now - Suppose that you have an emergency expense that costs $400. Based on your current financial situation, how would you pay for this expense?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No, did not do this"
+      },
+      {
+        "value": "1",
+        "text": "I wouldn’t be able to pay for the expense right now"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "EF5C": {
+    "label": "Pay all bills in full",
+    "description": "Other than any credit card bills you may have, did you pay all your bills in full last month?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "EF6C_a": {
+    "label": "Rent or mortgage",
+    "description": "Rent or mortgage - How did you handle each of the following types of bills last month?",
+    "code_values": [
+      {
+        "value": "-9",
+        "text": "Does not apply (do not have bill)"
+      },
+      {
+        "value": "0",
+        "text": "Made partial payment or did not pay"
+      },
+      {
+        "value": "1",
+        "text": "Paid in full"
+      }
+    ],
+    "availability_rate": "13.74%",
+    "valid_count": 1566,
+    "total_count": 11400
+  },
+  "EF6C_b": {
+    "label": "Water, gas, and electric bills",
+    "description": "Water, gas, and electric bills - How did you handle each of the following types of bills last month?",
+    "code_values": [
+      {
+        "value": "-9",
+        "text": "Does not apply (do not have bill)"
+      },
+      {
+        "value": "0",
+        "text": "Made partial payment or did not pay"
+      },
+      {
+        "value": "1",
+        "text": "Paid in full"
+      }
+    ],
+    "availability_rate": "13.74%",
+    "valid_count": 1566,
+    "total_count": 11400
+  },
+  "EF6C_c": {
+    "label": "Phone, internet, and cable bills",
+    "description": "Phone, internet, and cable bills - How did you handle each of the following types of bills last month?",
+    "code_values": [
+      {
+        "value": "-9",
+        "text": "Does not apply (do not have bill)"
+      },
+      {
+        "value": "0",
+        "text": "Made partial payment or did not pay"
+      },
+      {
+        "value": "1",
+        "text": "Paid in full"
+      }
+    ],
+    "availability_rate": "13.74%",
+    "valid_count": 1566,
+    "total_count": 11400
+  },
+  "EF6C_d": {
+    "label": "Car payment",
+    "description": "Car payment - How did you handle each of the following types of bills last month?",
+    "code_values": [
+      {
+        "value": "-9",
+        "text": "Does not apply (do not have bill)"
+      },
+      {
+        "value": "0",
+        "text": "Made partial payment or did not pay"
+      },
+      {
+        "value": "1",
+        "text": "Paid in full"
+      }
+    ],
+    "availability_rate": "13.74%",
+    "valid_count": 1566,
+    "total_count": 11400
+  },
+  "EF7": {
+    "label": "Largest emergency expense using savings",
+    "description": "Based on your current financial situation, what is the largest emergency expense that you could handle right now using only your savings?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Under $100"
+      },
+      {
+        "value": "2",
+        "text": "$100 to $499"
+      },
+      {
+        "value": "3",
+        "text": "$500 to $999"
+      },
+      {
+        "value": "4",
+        "text": "$1,000 to $1,999"
+      },
+      {
+        "value": "5",
+        "text": "$2,000 or more"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "FD3": {
+    "label": "Food eaten in your household",
+    "description": "In the past month, which of these statements best describes the food eaten in your household?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Enough of the kinds of food we wanted to eat"
+      },
+      {
+        "value": "2",
+        "text": "Enough, but not always the kinds of food we wanted to eat"
+      },
+      {
+        "value": "3",
+        "text": "Sometimes not enough to eat"
+      },
+      {
+        "value": "4",
+        "text": "Often not enough to eat"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "FD4": {
+    "label": "Children not eating enough",
+    "description": "Please indicate whether the next statement was often true, sometimes true, or never true in the past month for the children living in your household who are under 18 years old. \"The children were not eating enough because we just couldn't afford enough food.\"",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Often true"
+      },
+      {
+        "value": "2",
+        "text": "Sometimes true"
+      },
+      {
+        "value": "3",
+        "text": "Never true"
+      }
+    ],
+    "availability_rate": "23.30%",
+    "valid_count": 2656,
+    "total_count": 11400
+  },
+  "E8_a": {
+    "label": "Arrested or taken into custody",
+    "description": "Arrested or taken into custody by the police - Have you ever been:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E8_b": {
+    "label": "Convicted of a criminal offense but never received a prison sentence",
+    "description": "Convicted of a criminal offense but never received a prison sentence - Have you ever been:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E8_c": {
+    "label": "Convicted of a criminal offense and received a prison sentence",
+    "description": "Convicted of a criminal offense and received a prison sentence - Have you ever been:",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E1_a": {
+    "label": "Prescription medicine affordability",
+    "description": "Prescription medicine - During the past 12 months, was there a time when you needed each of the following, but went without because you couldn’t afford it?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E1_b": {
+    "label": "Seeing a doctor or specialist affordability",
+    "description": "Seeing a doctor or specialist - During the past 12 months, was there a time when you needed each of the following, but went without because you couldn’t afford it?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E1_c": {
+    "label": "Mental health care or counseling affordability",
+    "description": "Mental health care or counseling - During the past 12 months, was there a time when you needed each of the following, but went without because you couldn’t afford it?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E1_d": {
+    "label": "Dental care affordability",
+    "description": "Dental care - During the past 12 months, was there a time when you needed each of the following, but went without because you couldn’t afford it?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E1_e": {
+    "label": "Follow-up care affordability",
+    "description": "Follow-up care - During the past 12 months, was there a time when you needed each of the following, but went without because you couldn’t afford it?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E2": {
+    "label": "Unexpected major medical expenses",
+    "description": "During the past 12 months, have you had any unexpected major medical expenses that you had to pay out of pocket because they were not completely paid for by insurance?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E2A": {
+    "label": "Amount paid out of pocket",
+    "description": "Approximately how much did you pay out of pocket for unexpected major medical expenses in the past 12 months?",
+    "code_values": [
+      {
+        "value": "-2",
+        "text": "Don’t know"
+      },
+      {
+        "value": "1",
+        "text": "$1 to $499"
+      },
+      {
+        "value": "2",
+        "text": "$500 to $999"
+      },
+      {
+        "value": "3",
+        "text": "$1,000 to $1,999"
+      },
+      {
+        "value": "4",
+        "text": "$2,000 to $4,999"
+      },
+      {
+        "value": "5",
+        "text": "$5,000 or higher"
+      }
+    ],
+    "availability_rate": "23.89%",
+    "valid_count": 2724,
+    "total_count": 11400
+  },
+  "E2B": {
+    "label": "Debt from medical care",
+    "description": "Do you currently have any debt from medical care you or your family members have received?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E4_a": {
+    "label": "Insurance through an employer or union",
+    "description": "Insurance through an employer or union - Are you currently covered by any of the following types of health insurance or health coverage plans?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E4_b": {
+    "label": "Insurance purchased directly",
+    "description": "Insurance purchased directly from an insurance company - Are you currently covered by any of the following types of health insurance or health coverage plans?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E4_c": {
+    "label": "Medicare or Medicaid",
+    "description": "Medicare or Medicaid - Are you currently covered by any of the following types of health insurance or health coverage plans?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E4_d": {
+    "label": "TRICARE, VA, or other military",
+    "description": "TRICARE, VA, or other military or veteran's health care - Are you currently covered by any of the following types of health insurance or health coverage plans?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E4_e": {
+    "label": "Insurance through a health insurance exchange",
+    "description": "Insurance purchased through a health insurance exchange - Are you currently covered by any of the following types of health insurance or health coverage plans?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "E4_f": {
+    "label": "Any other health insurance",
+    "description": "Any other health insurance - Are you currently covered by any of the following types of health insurance or health coverage plans?",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "CH2A": {
+    "label": "Highest education of parent/guardian",
+    "description": "Thinking about your family or primary caregivers growing up, what was the highest level of education achieved by any parent or guardian?",
+    "code_values": [
+      {
+        "value": "-2",
+        "text": "Don’t know"
+      },
+      {
+        "value": "-1",
+        "text": "Refused"
+      },
+      {
+        "value": "1",
+        "text": "Less than High School degree"
+      },
+      {
+        "value": "2",
+        "text": "High school degree or GED"
+      },
+      {
+        "value": "3",
+        "text": "Some college but no degree"
+      },
+      {
+        "value": "4",
+        "text": "Certificate or technical degree"
+      },
+      {
+        "value": "5",
+        "text": "Associate degree"
+      },
+      {
+        "value": "6",
+        "text": "Bachelor’s degree"
+      },
+      {
+        "value": "7",
+        "text": "Graduate degree"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "DOV_D36_ORDER": {
+    "label": "Flag - order in which D36A and D36B are asked",
+    "description": "Flag - order in which D36A and D36B are asked",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "D36A shown first"
+      },
+      {
+        "value": "2",
+        "text": "D36B shown first"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "DOV_D36_AMOUNT": {
+    "label": "Flag - amount of hypothetical pay change",
+    "description": "Flag - amount of hypothetical pay change in question D36B",
+    "code_values": [
+      {
+        "value": "\"decreased your pay by 1 percent\"",
+        "text": "decreased your pay by 1 percent"
+      },
+      {
+        "value": "\"decreased your pay by 10 percent\"",
+        "text": "decreased your pay by 10 percent"
+      },
+      {
+        "value": "\"decreased your pay by 5 percent\"",
+        "text": "decreased your pay by 5 percent"
+      },
+      {
+        "value": "\"kept your pay the same for a year\"",
+        "text": "kept your pay the same for a year"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppage": {
+    "label": "Age",
+    "description": "Age",
+    "code_values": [],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppagecat": {
+    "label": "Age - 7 Categories",
+    "description": "Age - 7 Categories",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "18-24"
+      },
+      {
+        "value": "2",
+        "text": "25-34"
+      },
+      {
+        "value": "3",
+        "text": "35-44"
+      },
+      {
+        "value": "4",
+        "text": "45-54"
+      },
+      {
+        "value": "5",
+        "text": "55-64"
+      },
+      {
+        "value": "6",
+        "text": "65-74"
+      },
+      {
+        "value": "7",
+        "text": "75+"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppagect4": {
+    "label": "Age - 4 Categories",
+    "description": "Age - 4 Categories",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "18-29"
+      },
+      {
+        "value": "2",
+        "text": "30-44"
+      },
+      {
+        "value": "3",
+        "text": "45-59"
+      },
+      {
+        "value": "4",
+        "text": "60+"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppeduc5": {
+    "label": "Education (5 Categories)",
+    "description": "Education (5 Categories)",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "No high school diploma or GED"
+      },
+      {
+        "value": "2",
+        "text": "High school graduate (high school diploma or the equivalent GED)"
+      },
+      {
+        "value": "3",
+        "text": "Some college or Associate's degree"
+      },
+      {
+        "value": "4",
+        "text": "Bachelor's degree"
+      },
+      {
+        "value": "5",
+        "text": "Master’s degree or higher"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppeducat": {
+    "label": "Education (4 Categories)",
+    "description": "Education (4 Categories)",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "No high school diploma or GED"
+      },
+      {
+        "value": "2",
+        "text": "High school graduate (high school diploma or the equivalent GED)"
+      },
+      {
+        "value": "3",
+        "text": "Some college or Associate's degree"
+      },
+      {
+        "value": "4",
+        "text": "Bachelor's degree or higher"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppemploy": {
+    "label": "Current Employment Status",
+    "description": "Current Employment Status",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Working full-time"
+      },
+      {
+        "value": "2",
+        "text": "Working part-time"
+      },
+      {
+        "value": "3",
+        "text": "Not working"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppethm": {
+    "label": "Race / Ethnicity",
+    "description": "Race / Ethnicity",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "White, Non-Hispanic"
+      },
+      {
+        "value": "2",
+        "text": "Black, Non-Hispanic"
+      },
+      {
+        "value": "3",
+        "text": "Other, Non-Hispanic"
+      },
+      {
+        "value": "4",
+        "text": "Hispanic"
+      },
+      {
+        "value": "5",
+        "text": "2+ Races, Non-Hispanic"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppgender": {
+    "label": "Gender",
+    "description": "Gender",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Male"
+      },
+      {
+        "value": "2",
+        "text": "Female"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "pphhsize": {
+    "label": "Household Size",
+    "description": "Household Size",
+    "code_values": [],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "pphouse4": {
+    "label": "Housing Type",
+    "description": "Housing Type",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "A one-family house detached from any other house"
+      },
+      {
+        "value": "2",
+        "text": "One-family condo or townhouse attached to other units"
+      },
+      {
+        "value": "3",
+        "text": "Building with 2 or more apartments"
+      },
+      {
+        "value": "4",
+        "text": "Other (mobile home, boat, RV, van, etc.)"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppinc7": {
+    "label": "Household Income",
+    "description": "Household Income",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Less than $10,000"
+      },
+      {
+        "value": "2",
+        "text": "$10,000 to $24,999"
+      },
+      {
+        "value": "3",
+        "text": "$25,000 to $49,999"
+      },
+      {
+        "value": "4",
+        "text": "$50,000 to $74,999"
+      },
+      {
+        "value": "5",
+        "text": "$75,000 to $99,999"
+      },
+      {
+        "value": "6",
+        "text": "$100,000 to $149,999"
+      },
+      {
+        "value": "7",
+        "text": "$150,000 or more"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppmarit5": {
+    "label": "Marital Status",
+    "description": "Marital Status",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Now married"
+      },
+      {
+        "value": "2",
+        "text": "Widowed"
+      },
+      {
+        "value": "3",
+        "text": "Divorced"
+      },
+      {
+        "value": "4",
+        "text": "Separated"
+      },
+      {
+        "value": "5",
+        "text": "Never married"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppmsacat": {
+    "label": "MSA Status",
+    "description": "MSA Status",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "Non-Metro"
+      },
+      {
+        "value": "1",
+        "text": "Metro"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppreg4": {
+    "label": "Region 4 - Based on State of Residence",
+    "description": "Region 4 - Based on State of Residence",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Northeast"
+      },
+      {
+        "value": "2",
+        "text": "Midwest"
+      },
+      {
+        "value": "3",
+        "text": "South"
+      },
+      {
+        "value": "4",
+        "text": "West"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppreg9": {
+    "label": "Region 9 - Based on State of Residence",
+    "description": "Region 9 - Based on State of Residence",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "New England"
+      },
+      {
+        "value": "2",
+        "text": "Mid-Atlantic"
+      },
+      {
+        "value": "3",
+        "text": "East-North Central"
+      },
+      {
+        "value": "4",
+        "text": "West-North Central"
+      },
+      {
+        "value": "5",
+        "text": "South Atlantic"
+      },
+      {
+        "value": "6",
+        "text": "East-South Central"
+      },
+      {
+        "value": "7",
+        "text": "West-South Central"
+      },
+      {
+        "value": "8",
+        "text": "Mountain"
+      },
+      {
+        "value": "9",
+        "text": "Pacific"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "pprent": {
+    "label": "Ownership Status of Living Quarters",
+    "description": "Ownership Status of Living Quarters",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Owned or being bought by you or someone in your household"
+      },
+      {
+        "value": "2",
+        "text": "Rented for cash"
+      },
+      {
+        "value": "3",
+        "text": "Occupied without payment of cash rent"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppstaten": {
+    "label": "State",
+    "description": "State",
+    "code_values": [],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppkid017": {
+    "label": "Presence of Household Members - Children 0-17",
+    "description": "Presence of Household Members - Children 0-17",
+    "code_values": [
+      {
+        "value": "[0,8]",
+        "text": "Count"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppt18ov": {
+    "label": "Presence of Household Members - Adults 18+",
+    "description": "Presence of Household Members - Adults 18+",
+    "code_values": [
+      {
+        "value": "[1,10]",
+        "text": "Count"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppcm0160": {
+    "label": "Q26: Occupation (detailed) in current or main job",
+    "description": "Q26: Occupation (detailed) in current or main job",
+    "code_values": [
+      {
+        "value": "-2",
+        "text": "Not asked"
+      },
+      {
+        "value": "1",
+        "text": "Management"
+      },
+      {
+        "value": "16",
+        "text": "Food Preparation and Serving"
+      },
+      {
+        "value": "29",
+        "text": "Other (Please specify)"
+      }
+    ],
+    "availability_rate": "99.97%",
+    "valid_count": 11397,
+    "total_count": 11400
+  },
+  "ind1": {
+    "label": "IND1: Industry (tight scale) in current or main job",
+    "description": "IND1: Industry (tight scale) in current or main job",
+    "code_values": [
+      {
+        "value": "10",
+        "text": "Finance, Banking, and Insurance"
+      },
+      {
+        "value": "16",
+        "text": "Health Care (including Elder Care, Home Health Care)"
+      },
+      {
+        "value": "27",
+        "text": "Community/Non-Profit Organizations (including Religious and Political Organizations)"
+      }
+    ],
+    "availability_rate": "61.20%",
+    "valid_count": 6977,
+    "total_count": 11400
+  },
+  "ppcm1301": {
+    "label": "GOVEMP1: Employer type",
+    "description": "GOVEMP1: Employer type",
+    "code_values": [
+      {
+        "value": "-2",
+        "text": "Not asked"
+      },
+      {
+        "value": "-1",
+        "text": "Refused"
+      },
+      {
+        "value": "1",
+        "text": "Government"
+      },
+      {
+        "value": "2",
+        "text": "Private-for-profit company"
+      },
+      {
+        "value": "3",
+        "text": "Non-profit organization including tax exempt and charitable organizations"
+      },
+      {
+        "value": "4",
+        "text": "Self-employed"
+      },
+      {
+        "value": "5",
+        "text": "Working in the family business"
+      }
+    ],
+    "availability_rate": "99.97%",
+    "valid_count": 11397,
+    "total_count": 11400
+  },
+  "UNION100": {
+    "label": "UNION100: Are you a member of a labor union or an employee association similar to a union?",
+    "description": "UNION100: Are you a member of a labor union or an employee association similar to a union?",
+    "code_values": [
+      {
+        "value": "-2",
+        "text": "Not asked"
+      },
+      {
+        "value": "-1",
+        "text": "Refused"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      },
+      {
+        "value": "2",
+        "text": "No"
+      }
+    ],
+    "availability_rate": "99.96%",
+    "valid_count": 11395,
+    "total_count": 11400
+  },
+  "ppcmdate": {
+    "label": "Date member completed core adult survey",
+    "description": "Date member completed core adult survey",
+    "code_values": [
+      {
+        "value": "[20061206,20231011]",
+        "text": "Date (YYYYMMDD)"
+      }
+    ],
+    "availability_rate": "99.97%",
+    "valid_count": 11397,
+    "total_count": 11400
+  },
+  "Status": {
+    "label": "Armed Forces Status",
+    "description": "Armed Forces Status",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Active Duty"
+      },
+      {
+        "value": "2",
+        "text": "Currently Reserves"
+      },
+      {
+        "value": "3",
+        "text": "Currently National Guard"
+      },
+      {
+        "value": "4",
+        "text": "Veteran, including reserves"
+      },
+      {
+        "value": "5",
+        "text": "None of the above"
+      }
+    ],
+    "availability_rate": "93.78%",
+    "valid_count": 10691,
+    "total_count": 11400
+  },
+  "pph1date": {
+    "label": "Date member completed Health 1 survey",
+    "description": "Date member completed Health 1 survey",
+    "code_values": [
+      {
+        "value": "[20200623,20231030]",
+        "text": "Date (YYYYMMDD)"
+      }
+    ],
+    "availability_rate": "93.22%",
+    "valid_count": 10627,
+    "total_count": 11400
+  },
+  "pph10001": {
+    "label": "Q1: In general, would you say your physical health is. . .?",
+    "description": "Q1: In general, would you say your physical health is. . .?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Excellent"
+      },
+      {
+        "value": "2",
+        "text": "Very good"
+      },
+      {
+        "value": "3",
+        "text": "Good"
+      },
+      {
+        "value": "4",
+        "text": "Fair"
+      },
+      {
+        "value": "5",
+        "text": "Poor"
+      }
+    ],
+    "availability_rate": "93.04%",
+    "valid_count": 10607,
+    "total_count": 11400
+  },
+  "ppfsdate": {
+    "label": "Date member completed Financial Services survey",
+    "description": "Date member completed Financial Services survey",
+    "code_values": [
+      {
+        "value": "[20191124,20231031]",
+        "text": "Date (YYYYMMDD)"
+      }
+    ],
+    "availability_rate": "86.43%",
+    "valid_count": 9853,
+    "total_count": 11400
+  },
+  "ppfs0001": {
+    "label": "Q1: Involvement in financial decisions",
+    "description": "Q1: When it comes to decisions regarding your household's financial activities (such as banking and investment decisions), which of the following statements best describe your involvement?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "I make most of the decisions"
+      },
+      {
+        "value": "2",
+        "text": "Another household member and I share in the decisions"
+      },
+      {
+        "value": "3",
+        "text": "Another household member makes most of the decisions"
+      }
+    ],
+    "availability_rate": "86.32%",
+    "valid_count": 9840,
+    "total_count": 11400
+  },
+  "ppfs0596": {
+    "label": "Q22: Household savings and investments",
+    "description": "Q22: What is the approximate total amount of your household's savings and investments?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Under $50,000"
+      },
+      {
+        "value": "2",
+        "text": "$50,000 - $99,999"
+      },
+      {
+        "value": "3",
+        "text": "$100,000 - $249,999"
+      },
+      {
+        "value": "4",
+        "text": "$250,000 - $499,999"
+      },
+      {
+        "value": "5",
+        "text": "$500,000 - $999,999"
+      },
+      {
+        "value": "6",
+        "text": "$1,000,000 or more"
+      },
+      {
+        "value": "7",
+        "text": "Not sure"
+      }
+    ],
+    "availability_rate": "83.87%",
+    "valid_count": 9561,
+    "total_count": 11400
+  },
+  "ppfs1482": {
+    "label": "Q108: Credit score",
+    "description": "Q108: Where do you think your credit score falls?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Very poor"
+      },
+      {
+        "value": "2",
+        "text": "Poor"
+      },
+      {
+        "value": "3",
+        "text": "Fair"
+      },
+      {
+        "value": "4",
+        "text": "Good"
+      },
+      {
+        "value": "5",
+        "text": "Excellent"
+      },
+      {
+        "value": "6",
+        "text": "Don’t know"
+      }
+    ],
+    "availability_rate": "85.99%",
+    "valid_count": 9803,
+    "total_count": 11400
+  },
+  "pphidate": {
+    "label": "Date member completed Hispanic survey",
+    "description": "Date member completed Hispanic survey",
+    "code_values": [
+      {
+        "value": "[20200410,20231029]",
+        "text": "Date (YYYYMMDD)"
+      }
+    ],
+    "availability_rate": "12.58%",
+    "valid_count": 1434,
+    "total_count": 11400
+  },
+  "pphi0001": {
+    "label": "Q0: Language spoken at home",
+    "description": "Q0: What language do you usually speak at home?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Only Spanish"
+      },
+      {
+        "value": "2",
+        "text": "More Spanish than English"
+      },
+      {
+        "value": "3",
+        "text": "Both Spanish and English equally"
+      },
+      {
+        "value": "4",
+        "text": "More English than Spanish"
+      },
+      {
+        "value": "5",
+        "text": "Only English"
+      },
+      {
+        "value": "6",
+        "text": "Neither Spanish nor English"
+      }
+    ],
+    "availability_rate": "12.55%",
+    "valid_count": 1431,
+    "total_count": 11400
+  },
+  "ppracem": {
+    "label": "Race, Census categories",
+    "description": "Race, Census categories",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "White"
+      },
+      {
+        "value": "2",
+        "text": "Black or African American"
+      },
+      {
+        "value": "3",
+        "text": "American Indian or Alaska Native"
+      },
+      {
+        "value": "4",
+        "text": "Asian"
+      },
+      {
+        "value": "5",
+        "text": "Native Hawaiian/Pacific Islander"
+      },
+      {
+        "value": "6",
+        "text": "2+ races"
+      }
+    ],
+    "availability_rate": "99.96%",
+    "valid_count": 11395,
+    "total_count": 11400
+  },
+  "pphispan": {
+    "label": "Are you Spanish, Hispanic, or Latino?",
+    "description": "Are you Spanish, Hispanic, or Latino?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "No, I am not"
+      },
+      {
+        "value": "2",
+        "text": "Yes, Mexican, Mexican-American, Chicano"
+      },
+      {
+        "value": "3",
+        "text": "Yes, Puerto Rican"
+      },
+      {
+        "value": "4",
+        "text": "Yes, Cuban, Cuban American"
+      },
+      {
+        "value": "8",
+        "text": "Yes, Other"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "ppp1date": {
+    "label": "Date member completed Public Affairs 1 survey",
+    "description": "Date member completed Public Affairs 1 survey",
+    "code_values": [
+      {
+        "value": "[20200911,20231103]",
+        "text": "Date (YYYYMMDD)"
+      }
+    ],
+    "availability_rate": "96.35%",
+    "valid_count": 10984,
+    "total_count": 11400
+  },
+  "pppagnid": {
+    "label": "Gender identity",
+    "description": "Gender identity",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "Cisgender"
+      },
+      {
+        "value": "1",
+        "text": "Transgender"
+      },
+      {
+        "value": "2",
+        "text": "Other"
+      },
+      {
+        "value": "3",
+        "text": "Non-Binary"
+      }
+    ],
+    "availability_rate": "93.29%",
+    "valid_count": 10635,
+    "total_count": 11400
+  },
+  "pppa_lgb": {
+    "label": "Q230: Sexual Orientation",
+    "description": "Q230: Which of the following best describes how you think of yourself?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Gay or lesbian"
+      },
+      {
+        "value": "2",
+        "text": "Straight, that is, not gay"
+      },
+      {
+        "value": "3",
+        "text": "Bisexual"
+      },
+      {
+        "value": "4",
+        "text": "Something else"
+      }
+    ],
+    "availability_rate": "93.25%",
+    "valid_count": 10631,
+    "total_count": 11400
+  },
+  "ppp2date": {
+    "label": "Date member completed Public Affairs 2 survey",
+    "description": "Date member completed Public Affairs 2 survey",
+    "code_values": [
+      {
+        "value": "[20201002,20231106]",
+        "text": "Date (YYYYMMDD)"
+      }
+    ],
+    "availability_rate": "93.78%",
+    "valid_count": 10691,
+    "total_count": 11400
+  },
+  "ppp20197": {
+    "label": "QEG22: US Citizenship",
+    "description": "QEG22: Are you a citizen of the United States?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Yes"
+      },
+      {
+        "value": "2",
+        "text": "No"
+      }
+    ],
+    "availability_rate": "96.32%",
+    "valid_count": 10980,
+    "total_count": 11400
+  },
+  "pphi0018": {
+    "label": "Q5: Years lived in US",
+    "description": "Q5: In total, how many years have you lived in the United States?",
+    "code_values": [],
+    "availability_rate": "3.30%",
+    "valid_count": 376,
+    "total_count": 11400
+  },
+  "pph12003": {
+    "label": "Q190: Vision difficulty",
+    "description": "Q190: Are you blind or do you have serious difficulty seeing even when wearing glasses?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Yes"
+      },
+      {
+        "value": "4",
+        "text": "No"
+      }
+    ],
+    "availability_rate": "93.00%",
+    "valid_count": 10602,
+    "total_count": 11400
+  },
+  "pph12004": {
+    "label": "Q190: Hearing difficulty",
+    "description": "Q190: Are you deaf or do you have serious difficulty hearing?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Yes"
+      },
+      {
+        "value": "4",
+        "text": "No"
+      }
+    ],
+    "availability_rate": "92.90%",
+    "valid_count": 10591,
+    "total_count": 11400
+  },
+  "pph12005": {
+    "label": "Q190: Walking/climbing difficulty",
+    "description": "Q190: Do you have serious difficulty walking or climbing stairs?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Yes"
+      },
+      {
+        "value": "4",
+        "text": "No"
+      }
+    ],
+    "availability_rate": "92.90%",
+    "valid_count": 10591,
+    "total_count": 11400
+  },
+  "pph12006": {
+    "label": "Q190: Errands difficulty",
+    "description": "Q190: Because of a physical, mental, or emotional condition, do you having difficulty running errands?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Yes"
+      },
+      {
+        "value": "4",
+        "text": "No"
+      }
+    ],
+    "availability_rate": "93.00%",
+    "valid_count": 10602,
+    "total_count": 11400
+  },
+  "pph12007": {
+    "label": "Q190: Dressing/bathing difficulty",
+    "description": "Q190: Do you having difficulty dressing or bathing?",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Yes"
+      },
+      {
+        "value": "4",
+        "text": "No"
+      }
+    ],
+    "availability_rate": "93.02%",
+    "valid_count": 10604,
+    "total_count": 11400
+  },
+  "field_month": {
+    "label": "Field Month",
+    "description": "(unlabeled)",
+    "code_values": [
+      {
+        "value": "10",
+        "text": "Month 10"
+      },
+      {
+        "value": "11",
+        "text": "Month 11"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "field_day": {
+    "label": "Field Day",
+    "description": "(unlabeled)",
+    "code_values": [],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "pphhsize5": {
+    "label": "Household Size",
+    "description": "Household Size",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "1 member"
+      },
+      {
+        "value": "2",
+        "text": "2 members"
+      },
+      {
+        "value": "3",
+        "text": "3 members"
+      },
+      {
+        "value": "4",
+        "text": "4 members"
+      },
+      {
+        "value": "5",
+        "text": "5 members"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "race_5cat": {
+    "label": "Race/Ethnicity - 5 categories",
+    "description": "Race/Ethnicity - 5 categories",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "White"
+      },
+      {
+        "value": "2",
+        "text": "Black"
+      },
+      {
+        "value": "3",
+        "text": "Hispanic"
+      },
+      {
+        "value": "4",
+        "text": "Asian"
+      },
+      {
+        "value": "5",
+        "text": "Other"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "inc_4cat_50k": {
+    "label": "Income (I40) - 4 cat",
+    "description": "Income (I40) - 4 cat - <25,25-49,50-99,100+",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Less than $25,000"
+      },
+      {
+        "value": "2",
+        "text": "$25,000-$49,999"
+      },
+      {
+        "value": "3",
+        "text": "$50,000-$99,999"
+      },
+      {
+        "value": "4",
+        "text": "$100,000 or more"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "educ_4cat": {
+    "label": "Education - 4 categories",
+    "description": "Education - 4 categories, less than hs separate",
+    "code_values": [
+      {
+        "value": "1",
+        "text": "Less than a high school degree"
+      },
+      {
+        "value": "2",
+        "text": "High school degree or GED"
+      },
+      {
+        "value": "3",
+        "text": "Some college/technical or associates degree"
+      },
+      {
+        "value": "4",
+        "text": "Bachelor's degree or more"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "pay_casheqv": {
+    "label": "YesNoRefused",
+    "description": "Would handle $400 expense with cash or equivalent",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "atleast_okay": {
+    "label": "atleast_okay",
+    "description": "Doing okay financially",
+    "code_values": [
+      {
+        "value": "0",
+        "text": "No"
+      },
+      {
+        "value": "1",
+        "text": "Yes"
+      }
+    ],
+    "availability_rate": "100.00%",
+    "valid_count": 11400,
+    "total_count": 11400
+  },
+  "control": {
+    "label": "Control",
+    "description": "(unlabeled)",
+    "code_values": [
+      {
+        "value": "\"\"",
+        "text": "(Blank)"
+      },
+      {
+        "value": "\"Private for-profit\"",
+        "text": "Private for-profit"
+      },
+      {
+        "value": "\"Private nonprofit\"",
+        "text": "Private nonprofit"
+      },
+      {
+        "value": "\"Public\"",
+        "text": "Public"
+      }
+    ],
+    "availability_rate": "63.82%",
+    "valid_count": 7276,
+    "total_count": 11400
+  }
+}
