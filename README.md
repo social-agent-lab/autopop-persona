@@ -37,7 +37,7 @@ AutoPop/
 ├── persona_iterative_refinement.py   # Persona refinement calibration
 ├── question_design.py                # Survey question design
 ├── codebook_parser.py                # Codebook parsing utilities
-├── field_extraction_config_custom.py # Field extraction configuration
+├── extraction_config_custom.py       # Field extraction configuration
 └── llm_config.py                     # LLM model configuration
 ```
 
