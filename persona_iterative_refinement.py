@@ -111,7 +111,6 @@ class PersonaQualityTracker:
         return self.reward
     
     def to_dict(self) -> Dict:
-        """转换为字典"""
         return {
             'persona_id': self.persona_id,
             'fit_score': self.fit_score,
@@ -141,7 +140,6 @@ class HouseholdFitEvaluator(AgentBase):
         **kwargs
     ):
         """Initialize the household fit evaluator agent"""
-        # AgentBase.__init__() 不接受任何参数
         super().__init__()
         
         # Manually set all attributes
@@ -2060,7 +2058,6 @@ class IterativeRefinementEngine:
         demographics_lines: List[str] = []
         used_keys_lower: set[str] = set()
 
-        # 优先使用标准化字段（如已存在）
         age_key, age_val = _get_first_value(["head_age", "age", "HHLDRAGEP", "AGEP", "TAGE", "ER82018"])
         if age_key is not None:
             age_txt = _format_value(age_val)
@@ -2245,7 +2242,6 @@ class IterativeRefinementEngine:
 
             response = await self.question_evaluator.answer_survey(household_description)
 
-            # answer_survey现在直接返回字符串，不需要进一步处理
             if isinstance(response, str):
                 return response
             else:
